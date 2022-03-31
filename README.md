@@ -1,7 +1,7 @@
 ### Oie, sou Barbaha Santos 👋🏼
 ### Sou desenvolvedora web Front-end 
 
-- 🌱 Hoje estudo ReactJs, API Rest e Docker.
+- 🌱 Hoje estudo ReactJs, TypeScript, API Rest e Styled Components.
 - 💬 Entre em contato através do e-mail: barbaha.maria@gmail.com
 
 <div align="center">
