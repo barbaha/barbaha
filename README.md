@@ -1,8 +1,8 @@
 ### Oie, sou Barbaha Santos 👋🏼
-### Sou desenvolvedora web Front-end 
+### Sou desenvolvedora Front-end 
 
 - 🌱 Hoje estudo Flutter, Dart, ReactJs, JavaScript, Styled Components e Testes unitários.
-- 💡 Tenho interesse em aprender mais sobre TypeScript, API Rest.
+- 💡 Tenho interesse em aprender mais sobre TypeScript, API Rest, UX e usuabilidade de apps.
 - 💬 Entre em contato através do e-mail: barbaha.maria@gmail.com
 
 <div align="center">
