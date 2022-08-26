@@ -1,7 +1,8 @@
 ### Oie, sou Barbaha Santos 👋🏼
 ### Sou desenvolvedora web Front-end 
 
-- 🌱 Hoje estudo ReactJs, TypeScript, API Rest e Styled Components.
+- 🌱 Hoje estudo Flutter, Dart, ReactJs, JavaScript, Styled Components e Testes unitários.
+- 💡 Tenho interesse em aprender mais sobre TypeScript, API Rest.
 - 💬 Entre em contato através do e-mail: barbaha.maria@gmail.com
 
 <div align="center">
@@ -17,4 +18,6 @@
   <img align="center" alt="B-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="B-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="B-bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Flutter" height="30" width="40"  src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true">
+  <img align="center" alt="StyledComponents" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
 </div>
